@@ -42,3 +42,6 @@ services:
       - '8080:80'
     depends_on:
       - mysql
+
+
+      # docker-compose up -d pgadmin
